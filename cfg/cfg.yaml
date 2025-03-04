@@ -1,0 +1,9 @@
+# Configuration for the distributed system model with logical clocks
+machines: 3         # Number of virtual machines to simulate
+basePort: 28000     # Base port for communication (each VM will use basePort + machineID)
+logDir: "logs"      # Directory to store log files
+durationSecs: 60    # Duration to run the simulation in seconds
+
+# Parameters for experimentation
+eventRangeMax: 10   # Maximum value for random event generation (1-10, must be >= 3)
+clockVariation: 6   # Maximum clock tick variation (1-6)
