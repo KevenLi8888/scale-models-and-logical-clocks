@@ -81,35 +81,6 @@ func TestInitialize(t *testing.T) {
 	}
 }
 
-func TestCustomizeSimulation(t *testing.T) {
-	config := cfg.Config{
-		Machines:       3,
-		BasePort:       8080,
-		LogDir:         "test_logs",
-		ClockVariation: 5,
-		EventRangeMax:  10,
-		DurationSecs:   1,
-	}
-
-	sim, err := NewSimulator(config)
-	if err != nil {
-		t.Fatalf("Failed to create simulator: %v", err)
-	}
-
-	newClockVariation := 10
-	newEventRangeMax := 20
-
-	sim.CustomizeSimulation(newClockVariation, newEventRangeMax)
-
-	if sim.Config.ClockVariation != newClockVariation {
-		t.Errorf("Clock variation mismatch, expected: %d, got: %d", newClockVariation, sim.Config.ClockVariation)
-	}
-
-	if sim.Config.EventRangeMax != newEventRangeMax {
-		t.Errorf("Event range max mismatch, expected: %d, got: %d", newEventRangeMax, sim.Config.EventRangeMax)
-	}
-}
-
 func TestStartSimulation(t *testing.T) {
 	// this test uses a shorter duration
 	config := cfg.Config{

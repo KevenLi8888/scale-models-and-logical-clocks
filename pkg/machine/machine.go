@@ -209,7 +209,7 @@ func (m *Machine) handleConnection(conn net.Conn) {
 			return
 		}
 
-		fmt.Println("Received message:", msg)
+		// fmt.Println("Received message:", msg)
 
 		// Add message to queue - now using queueMu instead of mu
 		m.queueMu.Lock()
@@ -276,17 +276,17 @@ func (m *Machine) processTick() {
 		// Determine action based on random value per requirements
 		switch randVal {
 		case 1:
-			// Send to one machine
+			// Send to a machine with odd ID
 			if len(m.Connections) > 0 {
-				targetID := m.getRandomTargetID()
+				targetID := m.getRandomOddTargetID()
 				if targetID != -1 {
 					m.sendMessage(targetID, false)
 				}
 			}
 		case 2:
-			// Send to another machine
-			if len(m.Connections) > 1 {
-				targetID := m.getRandomTargetID()
+			// Send to a machine with even ID
+			if len(m.Connections) > 0 {
+				targetID := m.getRandomEvenTargetID()
 				if targetID != -1 {
 					m.sendMessage(targetID, false)
 				}
@@ -324,6 +324,48 @@ func (m *Machine) getRandomTargetID() int {
 
 	// Select a random ID
 	return ids[rand.Intn(len(ids))]
+}
+
+// getRandomOddTargetID gets a random machine ID with odd value from the connections map
+func (m *Machine) getRandomOddTargetID() int {
+	m.connMutex.Lock()
+	defer m.connMutex.Unlock()
+
+	// Get all connected machine IDs that are odd
+	oddIDs := make([]int, 0)
+	for id := range m.Connections {
+		if id%2 != 0 { // Odd ID
+			oddIDs = append(oddIDs, id)
+		}
+	}
+
+	if len(oddIDs) == 0 {
+		return -1
+	}
+
+	// Select a random odd ID
+	return oddIDs[rand.Intn(len(oddIDs))]
+}
+
+// getRandomEvenTargetID gets a random machine ID with even value from the connections map
+func (m *Machine) getRandomEvenTargetID() int {
+	m.connMutex.Lock()
+	defer m.connMutex.Unlock()
+
+	// Get all connected machine IDs that are even
+	evenIDs := make([]int, 0)
+	for id := range m.Connections {
+		if id%2 == 0 { // Even ID
+			evenIDs = append(evenIDs, id)
+		}
+	}
+
+	if len(evenIDs) == 0 {
+		return -1
+	}
+
+	// Select a random even ID
+	return evenIDs[rand.Intn(len(evenIDs))]
 }
 
 // sendToAllMachines sends a message to all connected machines

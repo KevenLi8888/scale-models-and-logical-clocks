@@ -84,12 +84,3 @@ func (s *Simulator) Start() {
 
 	s.Logger.Println("Simulation complete")
 }
-
-// CustomizeSimulation allows customization of simulation parameters
-// for experiments with different clock variations and event ranges
-func (s *Simulator) CustomizeSimulation(clockVariation int, eventRangeMax int) {
-	s.Config.ClockVariation = clockVariation
-	s.Config.EventRangeMax = eventRangeMax
-	s.Logger.Printf("Simulation customized with clock variation: %d, event range max: %d",
-		clockVariation, eventRangeMax)
-}

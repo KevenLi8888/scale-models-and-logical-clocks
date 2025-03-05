@@ -1,0 +1,244 @@
+[Machine 2] 2025/03/04 22:17:34.920358 Created machine with clock rate: 4 ticks per second, event range: 1-5
+[Machine 2] 2025/03/04 22:17:34.921060 Connected to machine 0 at port 28000
+[Machine 2] 2025/03/04 22:17:34.921157 Connected to machine 1 at port 28001
+[Machine 2] 2025/03/04 22:17:34.921255 Machine 2 started
+[Machine 2] 2025/03/04 22:17:35.174092 MULTICAST | System time: Mar  4 22:17:35.174 | Logical clock: 1
+[Machine 2] 2025/03/04 22:17:35.422911 RECEIVE from Machine 0 | System time: Mar  4 22:17:35.422 | Queue length: 0 | Logical clock: 2
+[Machine 2] 2025/03/04 22:17:35.672432 SEND to Machine 1 | System time: Mar  4 22:17:35.672 | Logical clock: 3
+[Machine 2] 2025/03/04 22:17:35.922384 INTERNAL EVENT | System time: Mar  4 22:17:35.922 | Logical clock: 4
+[Machine 2] 2025/03/04 22:17:36.172427 MULTICAST | System time: Mar  4 22:17:36.172 | Logical clock: 5
+[Machine 2] 2025/03/04 22:17:36.422342 RECEIVE from Machine 0 | System time: Mar  4 22:17:36.422 | Queue length: 0 | Logical clock: 6
+[Machine 2] 2025/03/04 22:17:36.672338 INTERNAL EVENT | System time: Mar  4 22:17:36.672 | Logical clock: 7
+[Machine 2] 2025/03/04 22:17:36.922404 SEND to Machine 0 | System time: Mar  4 22:17:36.922 | Logical clock: 8
+[Machine 2] 2025/03/04 22:17:37.172383 SEND to Machine 0 | System time: Mar  4 22:17:37.172 | Logical clock: 9
+[Machine 2] 2025/03/04 22:17:37.432359 MULTICAST | System time: Mar  4 22:17:37.432 | Logical clock: 10
+[Machine 2] 2025/03/04 22:17:37.672427 SEND to Machine 1 | System time: Mar  4 22:17:37.672 | Logical clock: 11
+[Machine 2] 2025/03/04 22:17:37.921774 INTERNAL EVENT | System time: Mar  4 22:17:37.921 | Logical clock: 12
+[Machine 2] 2025/03/04 22:17:38.171762 INTERNAL EVENT | System time: Mar  4 22:17:38.171 | Logical clock: 13
+[Machine 2] 2025/03/04 22:17:38.422399 INTERNAL EVENT | System time: Mar  4 22:17:38.422 | Logical clock: 14
+[Machine 2] 2025/03/04 22:17:38.671925 INTERNAL EVENT | System time: Mar  4 22:17:38.671 | Logical clock: 15
+[Machine 2] 2025/03/04 22:17:38.923643 SEND to Machine 0 | System time: Mar  4 22:17:38.923 | Logical clock: 16
+[Machine 2] 2025/03/04 22:17:39.173391 INTERNAL EVENT | System time: Mar  4 22:17:39.173 | Logical clock: 17
+[Machine 2] 2025/03/04 22:17:39.422943 INTERNAL EVENT | System time: Mar  4 22:17:39.422 | Logical clock: 18
+[Machine 2] 2025/03/04 22:17:39.672631 SEND to Machine 0 | System time: Mar  4 22:17:39.672 | Logical clock: 19
+[Machine 2] 2025/03/04 22:17:39.922434 SEND to Machine 1 | System time: Mar  4 22:17:39.922 | Logical clock: 20
+[Machine 2] 2025/03/04 22:17:40.173309 RECEIVE from Machine 0 | System time: Mar  4 22:17:40.173 | Queue length: 0 | Logical clock: 22
+[Machine 2] 2025/03/04 22:17:40.421834 SEND to Machine 0 | System time: Mar  4 22:17:40.421 | Logical clock: 23
+[Machine 2] 2025/03/04 22:17:40.672337 INTERNAL EVENT | System time: Mar  4 22:17:40.672 | Logical clock: 24
+[Machine 2] 2025/03/04 22:17:40.922835 INTERNAL EVENT | System time: Mar  4 22:17:40.922 | Logical clock: 25
+[Machine 2] 2025/03/04 22:17:41.172364 RECEIVE from Machine 0 | System time: Mar  4 22:17:41.172 | Queue length: 0 | Logical clock: 26
+[Machine 2] 2025/03/04 22:17:41.421945 RECEIVE from Machine 0 | System time: Mar  4 22:17:41.421 | Queue length: 0 | Logical clock: 27
+[Machine 2] 2025/03/04 22:17:41.671833 SEND to Machine 1 | System time: Mar  4 22:17:41.671 | Logical clock: 28
+[Machine 2] 2025/03/04 22:17:41.923916 SEND to Machine 1 | System time: Mar  4 22:17:41.923 | Logical clock: 29
+[Machine 2] 2025/03/04 22:17:42.172439 RECEIVE from Machine 0 | System time: Mar  4 22:17:42.172 | Queue length: 0 | Logical clock: 30
+[Machine 2] 2025/03/04 22:17:42.422392 INTERNAL EVENT | System time: Mar  4 22:17:42.422 | Logical clock: 31
+[Machine 2] 2025/03/04 22:17:42.672386 INTERNAL EVENT | System time: Mar  4 22:17:42.672 | Logical clock: 32
+[Machine 2] 2025/03/04 22:17:42.922350 RECEIVE from Machine 0 | System time: Mar  4 22:17:42.922 | Queue length: 0 | Logical clock: 33
+[Machine 2] 2025/03/04 22:17:43.172206 RECEIVE from Machine 0 | System time: Mar  4 22:17:43.172 | Queue length: 0 | Logical clock: 34
+[Machine 2] 2025/03/04 22:17:43.422400 RECEIVE from Machine 0 | System time: Mar  4 22:17:43.422 | Queue length: 0 | Logical clock: 35
+[Machine 2] 2025/03/04 22:17:43.672338 RECEIVE from Machine 0 | System time: Mar  4 22:17:43.672 | Queue length: 0 | Logical clock: 36
+[Machine 2] 2025/03/04 22:17:43.922369 RECEIVE from Machine 0 | System time: Mar  4 22:17:43.922 | Queue length: 0 | Logical clock: 37
+[Machine 2] 2025/03/04 22:17:44.172413 RECEIVE from Machine 0 | System time: Mar  4 22:17:44.172 | Queue length: 0 | Logical clock: 38
+[Machine 2] 2025/03/04 22:17:44.421779 RECEIVE from Machine 0 | System time: Mar  4 22:17:44.421 | Queue length: 0 | Logical clock: 39
+[Machine 2] 2025/03/04 22:17:44.672364 SEND to Machine 1 | System time: Mar  4 22:17:44.672 | Logical clock: 40
+[Machine 2] 2025/03/04 22:17:44.923372 RECEIVE from Machine 0 | System time: Mar  4 22:17:44.923 | Queue length: 0 | Logical clock: 41
+[Machine 2] 2025/03/04 22:17:45.172375 INTERNAL EVENT | System time: Mar  4 22:17:45.172 | Logical clock: 42
+[Machine 2] 2025/03/04 22:17:45.422413 RECEIVE from Machine 0 | System time: Mar  4 22:17:45.422 | Queue length: 0 | Logical clock: 43
+[Machine 2] 2025/03/04 22:17:45.672353 RECEIVE from Machine 0 | System time: Mar  4 22:17:45.672 | Queue length: 0 | Logical clock: 44
+[Machine 2] 2025/03/04 22:17:45.922955 RECEIVE from Machine 0 | System time: Mar  4 22:17:45.922 | Queue length: 0 | Logical clock: 45
+[Machine 2] 2025/03/04 22:17:46.171821 RECEIVE from Machine 0 | System time: Mar  4 22:17:46.171 | Queue length: 0 | Logical clock: 46
+[Machine 2] 2025/03/04 22:17:46.422892 SEND to Machine 0 | System time: Mar  4 22:17:46.422 | Logical clock: 47
+[Machine 2] 2025/03/04 22:17:46.672634 SEND to Machine 1 | System time: Mar  4 22:17:46.672 | Logical clock: 48
+[Machine 2] 2025/03/04 22:17:46.923260 RECEIVE from Machine 0 | System time: Mar  4 22:17:46.923 | Queue length: 0 | Logical clock: 50
+[Machine 2] 2025/03/04 22:17:47.172532 MULTICAST | System time: Mar  4 22:17:47.172 | Logical clock: 51
+[Machine 2] 2025/03/04 22:17:47.421640 INTERNAL EVENT | System time: Mar  4 22:17:47.421 | Logical clock: 52
+[Machine 2] 2025/03/04 22:17:47.674531 MULTICAST | System time: Mar  4 22:17:47.674 | Logical clock: 53
+[Machine 2] 2025/03/04 22:17:47.922472 SEND to Machine 1 | System time: Mar  4 22:17:47.922 | Logical clock: 54
+[Machine 2] 2025/03/04 22:17:48.172358 RECEIVE from Machine 0 | System time: Mar  4 22:17:48.172 | Queue length: 0 | Logical clock: 56
+[Machine 2] 2025/03/04 22:17:48.422704 INTERNAL EVENT | System time: Mar  4 22:17:48.422 | Logical clock: 57
+[Machine 2] 2025/03/04 22:17:48.672407 RECEIVE from Machine 0 | System time: Mar  4 22:17:48.672 | Queue length: 0 | Logical clock: 58
+[Machine 2] 2025/03/04 22:17:48.922415 MULTICAST | System time: Mar  4 22:17:48.922 | Logical clock: 59
+[Machine 2] 2025/03/04 22:17:49.172410 RECEIVE from Machine 0 | System time: Mar  4 22:17:49.172 | Queue length: 0 | Logical clock: 60
+[Machine 2] 2025/03/04 22:17:49.421497 MULTICAST | System time: Mar  4 22:17:49.421 | Logical clock: 61
+[Machine 2] 2025/03/04 22:17:49.672363 RECEIVE from Machine 0 | System time: Mar  4 22:17:49.672 | Queue length: 0 | Logical clock: 62
+[Machine 2] 2025/03/04 22:17:49.922528 INTERNAL EVENT | System time: Mar  4 22:17:49.922 | Logical clock: 63
+[Machine 2] 2025/03/04 22:17:50.172607 RECEIVE from Machine 0 | System time: Mar  4 22:17:50.172 | Queue length: 1 | Logical clock: 64
+[Machine 2] 2025/03/04 22:17:50.422231 RECEIVE from Machine 0 | System time: Mar  4 22:17:50.422 | Queue length: 0 | Logical clock: 65
+[Machine 2] 2025/03/04 22:17:50.672366 RECEIVE from Machine 0 | System time: Mar  4 22:17:50.672 | Queue length: 0 | Logical clock: 66
+[Machine 2] 2025/03/04 22:17:50.922412 INTERNAL EVENT | System time: Mar  4 22:17:50.922 | Logical clock: 67
+[Machine 2] 2025/03/04 22:17:51.172382 INTERNAL EVENT | System time: Mar  4 22:17:51.172 | Logical clock: 68
+[Machine 2] 2025/03/04 22:17:51.422370 RECEIVE from Machine 0 | System time: Mar  4 22:17:51.422 | Queue length: 0 | Logical clock: 69
+[Machine 2] 2025/03/04 22:17:51.672457 SEND to Machine 0 | System time: Mar  4 22:17:51.672 | Logical clock: 70
+[Machine 2] 2025/03/04 22:17:51.922310 RECEIVE from Machine 0 | System time: Mar  4 22:17:51.922 | Queue length: 0 | Logical clock: 71
+[Machine 2] 2025/03/04 22:17:52.172373 SEND to Machine 0 | System time: Mar  4 22:17:52.172 | Logical clock: 72
+[Machine 2] 2025/03/04 22:17:52.422494 RECEIVE from Machine 0 | System time: Mar  4 22:17:52.422 | Queue length: 0 | Logical clock: 73
+[Machine 2] 2025/03/04 22:17:52.672116 INTERNAL EVENT | System time: Mar  4 22:17:52.672 | Logical clock: 74
+[Machine 2] 2025/03/04 22:17:52.922479 RECEIVE from Machine 0 | System time: Mar  4 22:17:52.922 | Queue length: 0 | Logical clock: 75
+[Machine 2] 2025/03/04 22:17:53.171864 SEND to Machine 0 | System time: Mar  4 22:17:53.171 | Logical clock: 76
+[Machine 2] 2025/03/04 22:17:53.422885 SEND to Machine 0 | System time: Mar  4 22:17:53.422 | Logical clock: 77
+[Machine 2] 2025/03/04 22:17:53.672368 INTERNAL EVENT | System time: Mar  4 22:17:53.672 | Logical clock: 78
+[Machine 2] 2025/03/04 22:17:53.922864 MULTICAST | System time: Mar  4 22:17:53.922 | Logical clock: 79
+[Machine 2] 2025/03/04 22:17:54.171686 INTERNAL EVENT | System time: Mar  4 22:17:54.171 | Logical clock: 80
+[Machine 2] 2025/03/04 22:17:54.422384 RECEIVE from Machine 0 | System time: Mar  4 22:17:54.422 | Queue length: 0 | Logical clock: 82
+[Machine 2] 2025/03/04 22:17:54.672385 INTERNAL EVENT | System time: Mar  4 22:17:54.672 | Logical clock: 83
+[Machine 2] 2025/03/04 22:17:54.922482 RECEIVE from Machine 0 | System time: Mar  4 22:17:54.922 | Queue length: 0 | Logical clock: 84
+[Machine 2] 2025/03/04 22:17:55.172226 INTERNAL EVENT | System time: Mar  4 22:17:55.172 | Logical clock: 85
+[Machine 2] 2025/03/04 22:17:55.422384 SEND to Machine 1 | System time: Mar  4 22:17:55.422 | Logical clock: 86
+[Machine 2] 2025/03/04 22:17:55.672460 INTERNAL EVENT | System time: Mar  4 22:17:55.672 | Logical clock: 87
+[Machine 2] 2025/03/04 22:17:55.923084 RECEIVE from Machine 0 | System time: Mar  4 22:17:55.923 | Queue length: 0 | Logical clock: 88
+[Machine 2] 2025/03/04 22:17:56.172413 INTERNAL EVENT | System time: Mar  4 22:17:56.172 | Logical clock: 89
+[Machine 2] 2025/03/04 22:17:56.422824 SEND to Machine 0 | System time: Mar  4 22:17:56.422 | Logical clock: 90
+[Machine 2] 2025/03/04 22:17:56.672116 INTERNAL EVENT | System time: Mar  4 22:17:56.672 | Logical clock: 91
+[Machine 2] 2025/03/04 22:17:56.922407 SEND to Machine 1 | System time: Mar  4 22:17:56.922 | Logical clock: 92
+[Machine 2] 2025/03/04 22:17:57.172378 INTERNAL EVENT | System time: Mar  4 22:17:57.172 | Logical clock: 93
+[Machine 2] 2025/03/04 22:17:57.422373 RECEIVE from Machine 0 | System time: Mar  4 22:17:57.422 | Queue length: 0 | Logical clock: 94
+[Machine 2] 2025/03/04 22:17:57.672333 RECEIVE from Machine 0 | System time: Mar  4 22:17:57.672 | Queue length: 0 | Logical clock: 95
+[Machine 2] 2025/03/04 22:17:57.922475 RECEIVE from Machine 0 | System time: Mar  4 22:17:57.922 | Queue length: 0 | Logical clock: 96
+[Machine 2] 2025/03/04 22:17:58.172340 RECEIVE from Machine 0 | System time: Mar  4 22:17:58.172 | Queue length: 0 | Logical clock: 97
+[Machine 2] 2025/03/04 22:17:58.422920 RECEIVE from Machine 0 | System time: Mar  4 22:17:58.422 | Queue length: 0 | Logical clock: 98
+[Machine 2] 2025/03/04 22:17:58.672244 INTERNAL EVENT | System time: Mar  4 22:17:58.672 | Logical clock: 99
+[Machine 2] 2025/03/04 22:17:58.921759 SEND to Machine 1 | System time: Mar  4 22:17:58.921 | Logical clock: 100
+[Machine 2] 2025/03/04 22:17:59.172613 INTERNAL EVENT | System time: Mar  4 22:17:59.172 | Logical clock: 101
+[Machine 2] 2025/03/04 22:17:59.422701 SEND to Machine 0 | System time: Mar  4 22:17:59.422 | Logical clock: 102
+[Machine 2] 2025/03/04 22:17:59.672051 MULTICAST | System time: Mar  4 22:17:59.672 | Logical clock: 103
+[Machine 2] 2025/03/04 22:17:59.922687 RECEIVE from Machine 0 | System time: Mar  4 22:17:59.922 | Queue length: 0 | Logical clock: 105
+[Machine 2] 2025/03/04 22:18:00.172785 SEND to Machine 1 | System time: Mar  4 22:18:00.172 | Logical clock: 106
+[Machine 2] 2025/03/04 22:18:00.423268 RECEIVE from Machine 0 | System time: Mar  4 22:18:00.423 | Queue length: 0 | Logical clock: 107
+[Machine 2] 2025/03/04 22:18:00.672385 INTERNAL EVENT | System time: Mar  4 22:18:00.672 | Logical clock: 108
+[Machine 2] 2025/03/04 22:18:00.922532 RECEIVE from Machine 0 | System time: Mar  4 22:18:00.922 | Queue length: 0 | Logical clock: 109
+[Machine 2] 2025/03/04 22:18:01.171993 INTERNAL EVENT | System time: Mar  4 22:18:01.171 | Logical clock: 110
+[Machine 2] 2025/03/04 22:18:01.421539 RECEIVE from Machine 0 | System time: Mar  4 22:18:01.421 | Queue length: 0 | Logical clock: 111
+[Machine 2] 2025/03/04 22:18:01.672316 RECEIVE from Machine 0 | System time: Mar  4 22:18:01.672 | Queue length: 0 | Logical clock: 112
+[Machine 2] 2025/03/04 22:18:01.922376 INTERNAL EVENT | System time: Mar  4 22:18:01.922 | Logical clock: 113
+[Machine 2] 2025/03/04 22:18:02.171665 RECEIVE from Machine 0 | System time: Mar  4 22:18:02.171 | Queue length: 0 | Logical clock: 114
+[Machine 2] 2025/03/04 22:18:02.422431 INTERNAL EVENT | System time: Mar  4 22:18:02.422 | Logical clock: 115
+[Machine 2] 2025/03/04 22:18:02.680471 INTERNAL EVENT | System time: Mar  4 22:18:02.680 | Logical clock: 116
+[Machine 2] 2025/03/04 22:18:02.921706 RECEIVE from Machine 0 | System time: Mar  4 22:18:02.921 | Queue length: 0 | Logical clock: 117
+[Machine 2] 2025/03/04 22:18:03.172443 INTERNAL EVENT | System time: Mar  4 22:18:03.172 | Logical clock: 118
+[Machine 2] 2025/03/04 22:18:03.422889 SEND to Machine 0 | System time: Mar  4 22:18:03.422 | Logical clock: 119
+[Machine 2] 2025/03/04 22:18:03.672459 SEND to Machine 1 | System time: Mar  4 22:18:03.672 | Logical clock: 120
+[Machine 2] 2025/03/04 22:18:03.922972 RECEIVE from Machine 0 | System time: Mar  4 22:18:03.922 | Queue length: 0 | Logical clock: 122
+[Machine 2] 2025/03/04 22:18:04.172684 SEND to Machine 0 | System time: Mar  4 22:18:04.172 | Logical clock: 123
+[Machine 2] 2025/03/04 22:18:04.423276 INTERNAL EVENT | System time: Mar  4 22:18:04.423 | Logical clock: 124
+[Machine 2] 2025/03/04 22:18:04.672239 INTERNAL EVENT | System time: Mar  4 22:18:04.672 | Logical clock: 125
+[Machine 2] 2025/03/04 22:18:04.922736 RECEIVE from Machine 0 | System time: Mar  4 22:18:04.922 | Queue length: 0 | Logical clock: 126
+[Machine 2] 2025/03/04 22:18:05.172489 RECEIVE from Machine 0 | System time: Mar  4 22:18:05.172 | Queue length: 0 | Logical clock: 127
+[Machine 2] 2025/03/04 22:18:05.422814 SEND to Machine 1 | System time: Mar  4 22:18:05.422 | Logical clock: 128
+[Machine 2] 2025/03/04 22:18:05.675989 RECEIVE from Machine 1 | System time: Mar  4 22:18:05.675 | Queue length: 0 | Logical clock: 129
+[Machine 2] 2025/03/04 22:18:05.922311 SEND to Machine 0 | System time: Mar  4 22:18:05.922 | Logical clock: 130
+[Machine 2] 2025/03/04 22:18:06.172470 RECEIVE from Machine 0 | System time: Mar  4 22:18:06.172 | Queue length: 0 | Logical clock: 131
+[Machine 2] 2025/03/04 22:18:06.423426 INTERNAL EVENT | System time: Mar  4 22:18:06.423 | Logical clock: 132
+[Machine 2] 2025/03/04 22:18:06.672689 RECEIVE from Machine 0 | System time: Mar  4 22:18:06.672 | Queue length: 0 | Logical clock: 133
+[Machine 2] 2025/03/04 22:18:06.922509 RECEIVE from Machine 0 | System time: Mar  4 22:18:06.922 | Queue length: 0 | Logical clock: 134
+[Machine 2] 2025/03/04 22:18:07.171909 SEND to Machine 1 | System time: Mar  4 22:18:07.171 | Logical clock: 135
+[Machine 2] 2025/03/04 22:18:07.424657 RECEIVE from Machine 0 | System time: Mar  4 22:18:07.424 | Queue length: 0 | Logical clock: 136
+[Machine 2] 2025/03/04 22:18:07.672364 RECEIVE from Machine 0 | System time: Mar  4 22:18:07.672 | Queue length: 0 | Logical clock: 137
+[Machine 2] 2025/03/04 22:18:07.922475 RECEIVE from Machine 0 | System time: Mar  4 22:18:07.922 | Queue length: 0 | Logical clock: 138
+[Machine 2] 2025/03/04 22:18:08.172560 RECEIVE from Machine 0 | System time: Mar  4 22:18:08.172 | Queue length: 0 | Logical clock: 139
+[Machine 2] 2025/03/04 22:18:08.422544 RECEIVE from Machine 0 | System time: Mar  4 22:18:08.422 | Queue length: 0 | Logical clock: 140
+[Machine 2] 2025/03/04 22:18:08.671837 RECEIVE from Machine 0 | System time: Mar  4 22:18:08.671 | Queue length: 0 | Logical clock: 141
+[Machine 2] 2025/03/04 22:18:08.922904 INTERNAL EVENT | System time: Mar  4 22:18:08.922 | Logical clock: 142
+[Machine 2] 2025/03/04 22:18:09.172573 RECEIVE from Machine 1 | System time: Mar  4 22:18:09.172 | Queue length: 0 | Logical clock: 143
+[Machine 2] 2025/03/04 22:18:09.423649 MULTICAST | System time: Mar  4 22:18:09.423 | Logical clock: 144
+[Machine 2] 2025/03/04 22:18:09.672324 RECEIVE from Machine 1 | System time: Mar  4 22:18:09.672 | Queue length: 0 | Logical clock: 145
+[Machine 2] 2025/03/04 22:18:09.922396 INTERNAL EVENT | System time: Mar  4 22:18:09.922 | Logical clock: 146
+[Machine 2] 2025/03/04 22:18:10.172339 RECEIVE from Machine 0 | System time: Mar  4 22:18:10.172 | Queue length: 0 | Logical clock: 148
+[Machine 2] 2025/03/04 22:18:10.422994 MULTICAST | System time: Mar  4 22:18:10.422 | Logical clock: 149
+[Machine 2] 2025/03/04 22:18:10.672368 RECEIVE from Machine 1 | System time: Mar  4 22:18:10.672 | Queue length: 0 | Logical clock: 150
+[Machine 2] 2025/03/04 22:18:10.923234 SEND to Machine 0 | System time: Mar  4 22:18:10.923 | Logical clock: 151
+[Machine 2] 2025/03/04 22:18:11.172392 RECEIVE from Machine 0 | System time: Mar  4 22:18:11.172 | Queue length: 0 | Logical clock: 152
+[Machine 2] 2025/03/04 22:18:11.422709 SEND to Machine 1 | System time: Mar  4 22:18:11.422 | Logical clock: 153
+[Machine 2] 2025/03/04 22:18:11.672214 RECEIVE from Machine 0 | System time: Mar  4 22:18:11.672 | Queue length: 0 | Logical clock: 154
+[Machine 2] 2025/03/04 22:18:11.922440 INTERNAL EVENT | System time: Mar  4 22:18:11.922 | Logical clock: 155
+[Machine 2] 2025/03/04 22:18:12.171672 RECEIVE from Machine 0 | System time: Mar  4 22:18:12.171 | Queue length: 0 | Logical clock: 156
+[Machine 2] 2025/03/04 22:18:12.422374 INTERNAL EVENT | System time: Mar  4 22:18:12.422 | Logical clock: 157
+[Machine 2] 2025/03/04 22:18:12.672451 SEND to Machine 1 | System time: Mar  4 22:18:12.672 | Logical clock: 158
+[Machine 2] 2025/03/04 22:18:12.924074 INTERNAL EVENT | System time: Mar  4 22:18:12.924 | Logical clock: 159
+[Machine 2] 2025/03/04 22:18:13.172572 MULTICAST | System time: Mar  4 22:18:13.172 | Logical clock: 160
+[Machine 2] 2025/03/04 22:18:13.422395 INTERNAL EVENT | System time: Mar  4 22:18:13.422 | Logical clock: 161
+[Machine 2] 2025/03/04 22:18:13.672680 MULTICAST | System time: Mar  4 22:18:13.672 | Logical clock: 162
+[Machine 2] 2025/03/04 22:18:13.922859 MULTICAST | System time: Mar  4 22:18:13.922 | Logical clock: 163
+[Machine 2] 2025/03/04 22:18:14.171971 SEND to Machine 1 | System time: Mar  4 22:18:14.171 | Logical clock: 164
+[Machine 2] 2025/03/04 22:18:14.422417 SEND to Machine 1 | System time: Mar  4 22:18:14.422 | Logical clock: 165
+[Machine 2] 2025/03/04 22:18:14.672480 RECEIVE from Machine 0 | System time: Mar  4 22:18:14.672 | Queue length: 0 | Logical clock: 167
+[Machine 2] 2025/03/04 22:18:14.922243 RECEIVE from Machine 0 | System time: Mar  4 22:18:14.922 | Queue length: 0 | Logical clock: 168
+[Machine 2] 2025/03/04 22:18:15.172039 SEND to Machine 1 | System time: Mar  4 22:18:15.172 | Logical clock: 169
+[Machine 2] 2025/03/04 22:18:15.422627 SEND to Machine 1 | System time: Mar  4 22:18:15.422 | Logical clock: 170
+[Machine 2] 2025/03/04 22:18:15.672398 RECEIVE from Machine 0 | System time: Mar  4 22:18:15.672 | Queue length: 0 | Logical clock: 171
+[Machine 2] 2025/03/04 22:18:15.922624 SEND to Machine 1 | System time: Mar  4 22:18:15.922 | Logical clock: 172
+[Machine 2] 2025/03/04 22:18:16.174038 RECEIVE from Machine 0 | System time: Mar  4 22:18:16.174 | Queue length: 0 | Logical clock: 173
+[Machine 2] 2025/03/04 22:18:16.422631 SEND to Machine 1 | System time: Mar  4 22:18:16.422 | Logical clock: 174
+[Machine 2] 2025/03/04 22:18:16.671756 RECEIVE from Machine 0 | System time: Mar  4 22:18:16.671 | Queue length: 0 | Logical clock: 175
+[Machine 2] 2025/03/04 22:18:16.922369 RECEIVE from Machine 0 | System time: Mar  4 22:18:16.922 | Queue length: 0 | Logical clock: 176
+[Machine 2] 2025/03/04 22:18:17.172873 RECEIVE from Machine 0 | System time: Mar  4 22:18:17.172 | Queue length: 0 | Logical clock: 177
+[Machine 2] 2025/03/04 22:18:17.423449 RECEIVE from Machine 0 | System time: Mar  4 22:18:17.423 | Queue length: 1 | Logical clock: 178
+[Machine 2] 2025/03/04 22:18:17.672943 RECEIVE from Machine 0 | System time: Mar  4 22:18:17.672 | Queue length: 1 | Logical clock: 179
+[Machine 2] 2025/03/04 22:18:17.922531 RECEIVE from Machine 0 | System time: Mar  4 22:18:17.922 | Queue length: 0 | Logical clock: 180
+[Machine 2] 2025/03/04 22:18:18.171614 RECEIVE from Machine 0 | System time: Mar  4 22:18:18.171 | Queue length: 0 | Logical clock: 181
+[Machine 2] 2025/03/04 22:18:18.422382 INTERNAL EVENT | System time: Mar  4 22:18:18.422 | Logical clock: 182
+[Machine 2] 2025/03/04 22:18:18.672418 MULTICAST | System time: Mar  4 22:18:18.672 | Logical clock: 183
+[Machine 2] 2025/03/04 22:18:18.922452 RECEIVE from Machine 0 | System time: Mar  4 22:18:18.922 | Queue length: 0 | Logical clock: 184
+[Machine 2] 2025/03/04 22:18:19.172410 MULTICAST | System time: Mar  4 22:18:19.172 | Logical clock: 185
+[Machine 2] 2025/03/04 22:18:19.422495 RECEIVE from Machine 0 | System time: Mar  4 22:18:19.422 | Queue length: 0 | Logical clock: 186
+[Machine 2] 2025/03/04 22:18:19.672488 MULTICAST | System time: Mar  4 22:18:19.672 | Logical clock: 187
+[Machine 2] 2025/03/04 22:18:19.922797 SEND to Machine 1 | System time: Mar  4 22:18:19.922 | Logical clock: 188
+[Machine 2] 2025/03/04 22:18:20.171706 INTERNAL EVENT | System time: Mar  4 22:18:20.171 | Logical clock: 189
+[Machine 2] 2025/03/04 22:18:20.422759 RECEIVE from Machine 0 | System time: Mar  4 22:18:20.422 | Queue length: 0 | Logical clock: 190
+[Machine 2] 2025/03/04 22:18:20.671630 RECEIVE from Machine 0 | System time: Mar  4 22:18:20.671 | Queue length: 0 | Logical clock: 191
+[Machine 2] 2025/03/04 22:18:20.922478 SEND to Machine 0 | System time: Mar  4 22:18:20.922 | Logical clock: 192
+[Machine 2] 2025/03/04 22:18:21.173059 RECEIVE from Machine 0 | System time: Mar  4 22:18:21.173 | Queue length: 0 | Logical clock: 193
+[Machine 2] 2025/03/04 22:18:21.421808 INTERNAL EVENT | System time: Mar  4 22:18:21.421 | Logical clock: 194
+[Machine 2] 2025/03/04 22:18:21.672329 RECEIVE from Machine 0 | System time: Mar  4 22:18:21.672 | Queue length: 0 | Logical clock: 195
+[Machine 2] 2025/03/04 22:18:21.922691 RECEIVE from Machine 0 | System time: Mar  4 22:18:21.922 | Queue length: 0 | Logical clock: 196
+[Machine 2] 2025/03/04 22:18:22.172841 SEND to Machine 0 | System time: Mar  4 22:18:22.172 | Logical clock: 197
+[Machine 2] 2025/03/04 22:18:22.422444 INTERNAL EVENT | System time: Mar  4 22:18:22.422 | Logical clock: 198
+[Machine 2] 2025/03/04 22:18:22.672715 INTERNAL EVENT | System time: Mar  4 22:18:22.672 | Logical clock: 199
+[Machine 2] 2025/03/04 22:18:22.921692 MULTICAST | System time: Mar  4 22:18:22.921 | Logical clock: 200
+[Machine 2] 2025/03/04 22:18:23.176477 RECEIVE from Machine 0 | System time: Mar  4 22:18:23.176 | Queue length: 0 | Logical clock: 201
+[Machine 2] 2025/03/04 22:18:23.421752 INTERNAL EVENT | System time: Mar  4 22:18:23.421 | Logical clock: 202
+[Machine 2] 2025/03/04 22:18:23.672427 SEND to Machine 1 | System time: Mar  4 22:18:23.672 | Logical clock: 203
+[Machine 2] 2025/03/04 22:18:23.922849 INTERNAL EVENT | System time: Mar  4 22:18:23.922 | Logical clock: 204
+[Machine 2] 2025/03/04 22:18:24.172789 INTERNAL EVENT | System time: Mar  4 22:18:24.172 | Logical clock: 205
+[Machine 2] 2025/03/04 22:18:24.423149 SEND to Machine 1 | System time: Mar  4 22:18:24.423 | Logical clock: 206
+[Machine 2] 2025/03/04 22:18:24.672087 RECEIVE from Machine 0 | System time: Mar  4 22:18:24.672 | Queue length: 0 | Logical clock: 208
+[Machine 2] 2025/03/04 22:18:24.922526 INTERNAL EVENT | System time: Mar  4 22:18:24.922 | Logical clock: 209
+[Machine 2] 2025/03/04 22:18:25.172317 RECEIVE from Machine 0 | System time: Mar  4 22:18:25.172 | Queue length: 0 | Logical clock: 210
+[Machine 2] 2025/03/04 22:18:25.422023 RECEIVE from Machine 0 | System time: Mar  4 22:18:25.422 | Queue length: 0 | Logical clock: 211
+[Machine 2] 2025/03/04 22:18:25.672523 INTERNAL EVENT | System time: Mar  4 22:18:25.672 | Logical clock: 212
+[Machine 2] 2025/03/04 22:18:25.922058 RECEIVE from Machine 0 | System time: Mar  4 22:18:25.922 | Queue length: 0 | Logical clock: 213
+[Machine 2] 2025/03/04 22:18:26.172680 RECEIVE from Machine 0 | System time: Mar  4 22:18:26.172 | Queue length: 0 | Logical clock: 214
+[Machine 2] 2025/03/04 22:18:26.421968 SEND to Machine 0 | System time: Mar  4 22:18:26.421 | Logical clock: 215
+[Machine 2] 2025/03/04 22:18:26.672527 INTERNAL EVENT | System time: Mar  4 22:18:26.672 | Logical clock: 216
+[Machine 2] 2025/03/04 22:18:26.922132 RECEIVE from Machine 0 | System time: Mar  4 22:18:26.922 | Queue length: 0 | Logical clock: 218
+[Machine 2] 2025/03/04 22:18:27.171571 INTERNAL EVENT | System time: Mar  4 22:18:27.171 | Logical clock: 219
+[Machine 2] 2025/03/04 22:18:27.422466 RECEIVE from Machine 0 | System time: Mar  4 22:18:27.422 | Queue length: 0 | Logical clock: 220
+[Machine 2] 2025/03/04 22:18:27.672337 SEND to Machine 1 | System time: Mar  4 22:18:27.672 | Logical clock: 221
+[Machine 2] 2025/03/04 22:18:27.922790 MULTICAST | System time: Mar  4 22:18:27.922 | Logical clock: 222
+[Machine 2] 2025/03/04 22:18:28.172040 SEND to Machine 0 | System time: Mar  4 22:18:28.172 | Logical clock: 223
+[Machine 2] 2025/03/04 22:18:28.422850 SEND to Machine 0 | System time: Mar  4 22:18:28.422 | Logical clock: 224
+[Machine 2] 2025/03/04 22:18:28.672200 SEND to Machine 1 | System time: Mar  4 22:18:28.672 | Logical clock: 225
+[Machine 2] 2025/03/04 22:18:28.923998 SEND to Machine 0 | System time: Mar  4 22:18:28.923 | Logical clock: 226
+[Machine 2] 2025/03/04 22:18:29.172785 SEND to Machine 1 | System time: Mar  4 22:18:29.172 | Logical clock: 227
+[Machine 2] 2025/03/04 22:18:29.422309 SEND to Machine 0 | System time: Mar  4 22:18:29.422 | Logical clock: 228
+[Machine 2] 2025/03/04 22:18:29.672459 INTERNAL EVENT | System time: Mar  4 22:18:29.672 | Logical clock: 229
+[Machine 2] 2025/03/04 22:18:29.922879 SEND to Machine 1 | System time: Mar  4 22:18:29.922 | Logical clock: 230
+[Machine 2] 2025/03/04 22:18:30.172829 SEND to Machine 1 | System time: Mar  4 22:18:30.172 | Logical clock: 231
+[Machine 2] 2025/03/04 22:18:30.423311 RECEIVE from Machine 0 | System time: Mar  4 22:18:30.423 | Queue length: 0 | Logical clock: 233
+[Machine 2] 2025/03/04 22:18:30.672195 SEND to Machine 1 | System time: Mar  4 22:18:30.672 | Logical clock: 234
+[Machine 2] 2025/03/04 22:18:30.922326 RECEIVE from Machine 0 | System time: Mar  4 22:18:30.922 | Queue length: 0 | Logical clock: 235
+[Machine 2] 2025/03/04 22:18:31.172101 RECEIVE from Machine 0 | System time: Mar  4 22:18:31.172 | Queue length: 0 | Logical clock: 237
+[Machine 2] 2025/03/04 22:18:31.421832 INTERNAL EVENT | System time: Mar  4 22:18:31.421 | Logical clock: 238
+[Machine 2] 2025/03/04 22:18:31.672634 SEND to Machine 1 | System time: Mar  4 22:18:31.672 | Logical clock: 239
+[Machine 2] 2025/03/04 22:18:31.922316 INTERNAL EVENT | System time: Mar  4 22:18:31.922 | Logical clock: 240
+[Machine 2] 2025/03/04 22:18:32.172407 SEND to Machine 1 | System time: Mar  4 22:18:32.172 | Logical clock: 241
+[Machine 2] 2025/03/04 22:18:32.427482 INTERNAL EVENT | System time: Mar  4 22:18:32.427 | Logical clock: 242
+[Machine 2] 2025/03/04 22:18:32.672330 MULTICAST | System time: Mar  4 22:18:32.672 | Logical clock: 243
+[Machine 2] 2025/03/04 22:18:32.922457 SEND to Machine 1 | System time: Mar  4 22:18:32.922 | Logical clock: 244
+[Machine 2] 2025/03/04 22:18:33.171586 MULTICAST | System time: Mar  4 22:18:33.171 | Logical clock: 245
+[Machine 2] 2025/03/04 22:18:33.422632 SEND to Machine 1 | System time: Mar  4 22:18:33.422 | Logical clock: 246
+[Machine 2] 2025/03/04 22:18:33.672752 SEND to Machine 1 | System time: Mar  4 22:18:33.672 | Logical clock: 247
+[Machine 2] 2025/03/04 22:18:33.922229 INTERNAL EVENT | System time: Mar  4 22:18:33.922 | Logical clock: 248
+[Machine 2] 2025/03/04 22:18:34.172490 RECEIVE from Machine 0 | System time: Mar  4 22:18:34.172 | Queue length: 0 | Logical clock: 249
+[Machine 2] 2025/03/04 22:18:34.422590 RECEIVE from Machine 0 | System time: Mar  4 22:18:34.422 | Queue length: 0 | Logical clock: 250
+[Machine 2] 2025/03/04 22:18:34.672007 RECEIVE from Machine 0 | System time: Mar  4 22:18:34.671 | Queue length: 0 | Logical clock: 251
+[Machine 2] 2025/03/04 22:18:34.922878 RECEIVE from Machine 0 | System time: Mar  4 22:18:34.922 | Queue length: 1 | Logical clock: 252
