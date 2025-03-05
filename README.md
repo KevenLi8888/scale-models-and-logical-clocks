@@ -1,5 +1,7 @@
 # Scale Models and Logical Clocks
 
+[Engineering Notebook](https://kevenli.notion.site/engineering-notebook-scale-models-and-logical-clocks)
+
 This project implements a distributed system model with logical clocks. Each virtual machine runs at a randomly assigned speed (clock rate) and communicates with other virtual machines in the system.
 
 ## Project Overview
