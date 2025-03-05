@@ -1,2 +1,4 @@
 # Ignore all files and subdirectories in the logs directory
 /logs/
+
+/coverage.out
